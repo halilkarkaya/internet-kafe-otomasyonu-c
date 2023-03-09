@@ -1,0 +1,32 @@
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
+		                                                          MENU
+
+			                      ICECEKLER                                                  ATISTIRMALIKLAR  
+                                         
+===================================================================================================================================================================================================================
+                       
+
+		 	                      a=Cay--------------------5TL                               k=Ketcapli Cips------------15TL
+
+			                      b=Cilekli Milkshake------20TL                              m=Acili Cips---------------15TL
+
+		                    	      c=Cikolatali Milkshake----20TL                             n=Sade Cips----------------15TL
+ 
+			                      d=Turk Kahvesi-----------20TL                              o=Popkek Cikolatali--------5TL
+ 
+			                      e=Zafer Gazoz(Sade)------6TL                               p=Popkek Limonlu-----------5TL
+
+		                              f=Zafer Gazoz(meyveli)---6TL                               r=Torku Ruseymli 3'lu------16TL
+    
+	                     		      g=Kola-------------------10TL                              s=Ulker Cikolatali Gofret--5TL
+
+		                              h=Fanta------------------10TL                              t=Kinder Sut Dilimi--------5TL
+
+			                      i=Didi-------------------8TL                               u=Eti Puf------------------3TL
+       
+			                      j=Baklavali milsahke-----20TL                              v=Gong---------------------7TL
+
+			     
+
+                                                                            CIKIS ICIN = 1 
+

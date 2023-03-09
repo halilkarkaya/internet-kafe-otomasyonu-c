@@ -1,0 +1,105 @@
+KULLANICI Bilgileri
+===================
+
+
+ 
+
+ 
+_______________________________________
+
+kullanicinin giris yaptigi tarih 15.11.2022
+
+kullanicinin giris yaptigi saat 18:39
+
+kullanicinin adi  = zehra
+kullanicinin yasi = 1
+cay aldi
+Cilekli milksahke aldi
+ Coco filmini secti
+_______________________________________
+
+kullanicinin giris yaptigi tarih 15.11.2022
+
+kullanicinin giris yaptigi saat 18:42
+
+kullanicinin adi  = halil
+kullanicinin yasi = 19
+premium++ oturdugu masa 1
+30dklik aldi 
+_______________________________________
+
+kullanicinin giris yaptigi tarih 15.11.2022
+
+kullanicinin giris yaptigi saat 19:23
+
+kullanicinin adi  = omer
+kullanicinin yasi = 19
+premium++ oturdugu masa 7
+1 saat 30dklik aldi 
+_______________________________________
+
+kullanicinin giris yaptigi tarih 15.11.2022
+
+kullanicinin giris yaptigi saat 19:24
+
+kullanicinin adi  = 1
+kullanicinin yasi = 111
+ps5e oturdu
+
+_______________________________________
+
+kullanicinin giris yaptigi tarih 15.11.2022
+
+kullanicinin giris yaptigi saat 21:56
+
+kullanicinin adi  = halil
+kullanicinin yasi = 19
+
+_______________________________________
+
+kullanicinin giris yaptigi tarih 15.11.2022
+
+kullanicinin giris yaptigi saat 21:57
+
+kullanicinin adi  = halil
+kullanicinin yasi = 19
+gariban oturdugu masa 62
+3 saatlik aldi
+ 
+_______________________________________
+
+kullanicinin giris yaptigi tarih 15.11.2022
+
+kullanicinin giris yaptigi saat 22:5
+
+kullanicinin adi  = halilÅ
+kullanicinin yasi = 19
+cay aldi
+premium++ oturdugu masa 2
+30dklik aldi 
+
+ 
+_______________________________________
+
+kullanicinin giris yaptigi tarih 27.11.2022
+
+kullanicinin giris yaptigi saat 14:33
+
+kullanicinin adi  = halil
+kullanicinin yasi = 19
+cay aldi
+Gong aldi 
+
+_______________________________________
+
+kullanicinin giris yaptigi tarih 9.0.2023
+
+kullanicinin giris yaptigi saat 21:1
+
+kullanicinin adi  = erdinc
+kullanicinin yasi = 20
+Ketcapli cips aldi
+kola aldi
+cay aldi
+ps4'e oturdu
+Call Of Duty Modern Warfere II oyununu secti
